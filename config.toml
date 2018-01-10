@@ -67,7 +67,7 @@ title = "Tame Your Technology"
   video = false
   vidlink = "https://vimeo.com/channels/staffpicks/93951774"
   title = "Our Services"
-  description = "We know how to tame the most unruly and vicious computer problems. We're not even afraid of the beast itself: Comcast."
+  description = "We know how to tame the most unruly and vicious computer problems. We'll even get on the phone for you to put your unruly service provider in its place!"
 
   [[params.services.item]]
     icon = "fas fa-pencil-alt"
