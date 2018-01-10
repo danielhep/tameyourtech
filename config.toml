@@ -13,7 +13,7 @@ title = "Tame Your Technology"
 [params.hero]
   img = "images/mainpage.jpg"
   title = "Tame your misbehaving technology."
-  description = "Local, friendly, honest computer services in Bellingham."
+  description = "Local, friendly, honest computer services centered in Bellingham, WA."
 
 # Navigation section
 [params.nav]
