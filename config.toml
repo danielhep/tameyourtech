@@ -14,6 +14,7 @@ title = "Tame Your Technology"
   img = "images/mainpage.jpg"
   title = "Tame your misbehaving technology."
   description = "Local, friendly, honest computer services centered in Bellingham, Washington."
+  phone = "(831) 295-9041"
 
 # Navigation section
 [params.nav]
@@ -198,13 +199,15 @@ title = "Tame Your Technology"
 [params.contact]
   enable = true
   title = "Reach out for a free consultation!"
-  message = "We never charge for phone consultations! Give us a call to start taming your computer jungle today!"
+  message = "We never charge for phone consultations! Give us a call or send us an email to start taming your computer jungle today!"
+  phone = "(831) 295-9041"
+
 
 # Footer section
 # Note here that the copyright and attribution statement must remain as part of the license agreement. If you wish to remove this, please contact freehtml5 and pay for a professional license.
 [params.footer]
   enable = true
-  note = "<p><small>&copy; 2016 Free HTML5 Template. All Rights Reserved. <br> Designed by <a href='http://freehtml5.co/' target='_blank'>FreeHTML5.co</a> Demo Images: <a href='http://pexels.com/' target='_blank'>Pexels</a><br>Hugo port by <a href='https://github.com/SteveLane/' target='_blank'>SteveLane</a></small></p>"
+  note = "<p><small>&copy; 2016 Free HTML5 Template. All Rights Reserved. <br> Designed by <a href='http://freehtml5.co/' target='_blank'>FreeHTML5.co</a><br>Hugo port by <a href='https://github.com/SteveLane/' target='_blank'>SteveLane</a></small></p>"
   github = "#"
   twitter = "#"
   facebook = "#"
