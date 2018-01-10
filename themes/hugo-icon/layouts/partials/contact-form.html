@@ -4,7 +4,9 @@
 			{{ with .Site.Params.contact }}
 			<h2>{{ .title }}</h2>
 			<p>{{ .message | markdownify }}</p>
-			<h2 class="phone">{{ .phone }}</h2>
+			<h2 class="phone">
+				<a href="tel:{{ .phone2 }}">{{ .phone }}</a>
+			</h2>
 			{{ end }}
 		</div>
 		<form name="contact-form" netlify-honeypot="_gotcha" action="thank-you" netlify>

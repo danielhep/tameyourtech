@@ -1260,9 +1260,14 @@ p {
 
 /*# sourceMappingURL=style.css.map */
 
-h2.phone {
-  margin-top: 20px !important;
+h2.phone a {
   font-weight: bold;
   font-size: 25px !important;
-  color: #81c784 !important;
+  color: #57d131 !important;
+  text-decoration: none !important;
+  border-bottom: none !important;
+}
+
+h2.phone {
+  margin-top: 20px !important;
 }

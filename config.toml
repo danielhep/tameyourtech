@@ -15,6 +15,7 @@ title = "Tame Your Technology"
   title = "Tame your misbehaving technology."
   description = "Local, friendly, honest computer services centered in Bellingham, Washington."
   phone = "(831) 295-9041"
+  phoneUnstyled = "8312959041"
 
 # Navigation section
 [params.nav]
@@ -201,6 +202,8 @@ title = "Tame Your Technology"
   title = "Reach out for a free consultation!"
   message = "We never charge for phone consultations! Give us a call or send us an email to start taming your computer jungle today!"
   phone = "(831) 295-9041"
+  phone2 = "8312959041"
+
 
 
 # Footer section
