@@ -1,0 +1,5 @@
+{
+  "terminal.integrated.env.osx": {
+    "PATH": "/Users/danielhep/.platformio/penv/bin:/usr/local/bin:/usr/local/sbin:/usr/bin:/bin:/usr/sbin:/sbin:/Users/danielhep/.rvm/bin:/Users/danielhep/.yadr/bin:/Users/danielhep/.yadr/bin/yadr"
+  }
+}
