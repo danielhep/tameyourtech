@@ -13,7 +13,7 @@ title = "Tame Your Technology"
 [params.hero]
   img = "images/mainpage.jpg"
   title = "Tame your misbehaving technology."
-  description = "Local, friendly, honest computer services centered in Bellingham, WA."
+  description = "Local, friendly, honest computer services centered in Bellingham, Washington."
 
 # Navigation section
 [params.nav]
@@ -70,32 +70,32 @@ title = "Tame Your Technology"
   description = "We know how to tame the most unruly and vicious computer problems. We're not even afraid of the beast itself: Comcast."
 
   [[params.services.item]]
-    icon = "icon-present"
+    icon = "fas fa-pencil-alt"
     title = "Basic Computer Help"
     description = "We'll help with any kind of basic computer problem. Microsoft Word, Email, Internet problems."
 
   [[params.services.item]]
-    icon = "icon-eye"
+    icon = "fas fa-shopping-bag"
     title = "New Tech Advice/Setup"
     description = "Need purchasing advice? Need help setting up that shiny new device? We can help!"
 
   [[params.services.item]]
-    icon = "icon-paper-plane"
+    icon = "fa-search fas"
     title = "Service Plan Deal Hunting"
     description = "We'll trek through the forest of begrudging customer service agents to find you the best deal on your TV, phone, and Internet."
 
   [[params.services.item]]
-    icon = "icon-pencil"
+    icon = "fa-wrench fas"
     title = "Repair"
     description = "Is there something wrong with your computer? Hardware or software, we'll figure it out. And since we don't charge any fees for parts, you'll never need to worry about being upsold."
 
   [[params.services.item]]
-    icon = "icon-rocket"
+    icon = "fa-user-secret fas"
     title = "Virus Removal"
     description = "If your computer has a nasty virus, we'll restore it to a safe condition and secure it against future attacks."
 
   [[params.services.item]]
-    icon = "icon-support"
+    icon = "fa-life-ring fas"
     title = "Warranty"
     description = "All our services are warrantied, and should you discover any mistakes in our work, we'll fix it free of charge."
 
